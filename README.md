@@ -40,7 +40,7 @@ Tras la depuración mundial, Melomanobot decide arriesgarse y emprender un viaje
 
 Autores: 
 - :man: Felipe de la Peña
-- :woman: Jessi Hurling
+- :woman: Jessie Huling
 
 
 <!---
